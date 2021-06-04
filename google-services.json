@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "68070412609",
+    "project_id": "notifcacionesroyal",
+    "storage_bucket": "notifcacionesroyal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68070412609:android:d8a26c62a83bd090b291c0",
+        "android_client_info": {
+          "package_name": "com.yourcompany.obersoftRoyal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68070412609-2lp3tcdbt5md14nbrm4githh67gm781g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourcompany.obersoftRoyal",
+            "certificate_hash": "51417edacf71fe1212d54c7e3474942126a11189"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6BIc1mLihPACBpcAoouJyVqAq67ZHyAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
